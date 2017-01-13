@@ -1,0 +1,21 @@
+﻿[Adblock Plus 2.0]
+! Version: 201701131654
+! Title: FR-good-guys
+! Last modified: 13 Jan 2017 16:54 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://webofmars.com/liste-adblock-FR-good-guys
+! Licence: 
+! 
+! Please report any unblocked adverts or problems
+! via e-mail (contact@webofmars.com).
+!
+! US 
+@@||webofmars.com^$document
+@@||webofmars.net^$document
+@@||webofmars.info^$document
+@@||webofmars.fr^$document
+! Hospex
+@@||bewelcome.org^$document
+! Hosting
+@@||ovh.com^$document
+@@||console.aws.amazon.com^$document
