@@ -1,21 +1,48 @@
 ﻿[Adblock Plus 2.0]
-! Version: 201701131654
+! Version: 202402151510
 ! Title: FR-good-guys
-! Last modified: 13 Jan 2017 16:54 UTC
+! Last modified: 15 Feb 2024 15:11 UTC+1
 ! Expires: 4 days (update frequency)
 ! Homepage: https://webofmars.com/liste-adblock-FR-good-guys
-! Licence: 
-! 
-! Please report any unblocked adverts or problems
-! via e-mail (contact@webofmars.com).
+! Licence: GPL-v3
 !
-! US 
+! Please report any unblocked adverts or problems
+! via e-mail (contact chez webofmars point com).
+!
+! Local networks
+@@||127.0.0.1^$document
+@@||localhost^$document
+@@||192.168.*.*^$document
+! US
 @@||webofmars.com^$document
 @@||webofmars.net^$document
 @@||webofmars.info^$document
 @@||webofmars.fr^$document
+@@||*.webofmars.com^$document
+@@||*.webofmars.net^$document
+@@||*.webofmars.info^$document
+@@||*.webofmars.fr^$document
+! services we trust
+@@||app.tousquali.fr^$document
+@@||app.devopsdday.com^$document
+@@||app.diagrams.net^$document
+@@||connect.stripe.com^$document
+@@||duckdns.org^$document
 ! Hospex
 @@||bewelcome.org^$document
 ! Hosting
 @@||ovh.com^$document
 @@||console.aws.amazon.com^$document
+@@||console.cloud.google.com^$document
+! you need this to avoid issues
+@@||app.datadoghq.eu^$document
+@@||app.slack.com^$document
+@@||eventbrite.com^$document
+@@||eventbrite.fr^$document
+@@||fr.slideshare.net^$document
+@@||github.com/sponsors^$document
+@@||lucid.app^$document
+@@||meetup.com^$document
+@@||training.linuxfoundation.org^$document
+!
+! this is the end ...
